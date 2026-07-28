@@ -1,0 +1,16 @@
+{
+  "name": "Love Council AI",
+  "short_name": "Love AI",
+  "description": "私人关系决策辅助系统 - 5位恋爱专家 AI 顾问",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💞</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
